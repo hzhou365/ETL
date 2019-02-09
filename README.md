@@ -7,24 +7,24 @@ First, the following four data files (Excel files) had been extracted from https
 "bitcoin_price",
 "ethereum_price",
 "IBM",
-"MSFT"
+and "MSFT".
 
 They are Excel files. 
 
 
 Secondly, These data files were transformed onto Python Pandas dataframes and named as following:
-"new_bitcoin_df" 
-"new_ethereum_df"
-"new_IBM_df"
-"new_MSFT_df"
+"new_bitcoin_df",
+"new_ethereum_df",
+"new_IBM_df",
+and "new_MSFT_df".
 
 
 
 Third, These transformed files were Loaded onto MySQL server under database "Proj2_db" and stored in four tables:
-"bitcoin"
-"ethereum"
-"ibm "
-"msft"
+"bitcoin",
+"ethereum",
+"ibm",
+and "msft".
 
 
 After that, I made two sql queries: 
